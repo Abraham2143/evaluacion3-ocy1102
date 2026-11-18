@@ -24,12 +24,24 @@
 */
 var NAVTREE =
 [
-  [ "Evaluacion 3 - DevSecOps SecureDev", "index.html", ]
+  [ "Evaluacion 3 - DevSecOps SecureDev", "index.html", [
+    [ "Packages", "namespaces.html", [
+      [ "Package List", "namespaces.html", "namespaces_dup" ],
+      [ "Package Members", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", null ],
+        [ "Functions", "namespacemembers_func.html", null ],
+        [ "Variables", "namespacemembers_vars.html", null ]
+      ] ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ]
+    ] ]
+  ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"index.html"
+"app_8py.html"
 ];
 
 const SYNCONMSG = 'click to disable panel synchronization';

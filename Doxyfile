@@ -5,3 +5,6 @@ INPUT                  = .
 RECURSIVE              = YES
 GENERATE_HTML          = YES
 GENERATE_LATEX         = NO
+EXTRACT_ALL = YES
+OPTIMIZE_OUTPUT_JAVA = YES
+INPUT = app.py
