@@ -1,0 +1,7 @@
+PROJECT_NAME           = "Evaluacion 3 - DevSecOps SecureDev"
+OUTPUT_DIRECTORY       = "docs"
+EXTENSION_MAPPING      = py=Python
+INPUT                  = .
+RECURSIVE              = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
