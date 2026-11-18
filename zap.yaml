@@ -28,7 +28,7 @@ jobs:
 - parameters:
     reportDescription: ''
     reportDir: /zap/wrk/
-    reportFile: reporte_zap_vulnerable.html
+    reportFile: reporte_zap_mitigado.html
     reportTitle: ZAP Scanning Report
     template: traditional-html
   type: report
